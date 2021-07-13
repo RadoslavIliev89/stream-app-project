@@ -1,10 +1,10 @@
 import {BrowserRouter, Route} from 'react-router-dom';
 
-import StreamCreate from './Streams/StreamCreate';
-import StreamDelete from './Streams/StreamDelete';
-import StreamEdit from './Streams/StreamEdit';
-import StreamList from './Streams/StreamList';
-import StreamShow from './Streams/StreamShow';
+import StreamCreate from './streams/StreamCreate';
+import StreamDelete from './streams/StreamDelete';
+import StreamEdit from './streams/StreamEdit';
+import StreamList from './streams/StreamList';
+import StreamShow from './streams/StreamShow';
 import Header from './Header';
 
 
