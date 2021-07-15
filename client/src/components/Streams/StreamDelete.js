@@ -1,8 +1,12 @@
 
+import Modal from '../Modal';
+const StreamDelete = () => {
+    return (
+        <div>
+            StreamDelete
+            <Modal />
+        </div>
 
-const StreamDelete=()=>{
-    return(
-        <div>StreamDelete</div>
     );
 }
 export default StreamDelete;
